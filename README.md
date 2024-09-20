@@ -17,3 +17,4 @@ The action provider assembly should inherit the "ActionProvider" class from the 
 
 The assembly that will be executed should be installed into the bin folder and then the correct assembly, namespace, class and extra data can be added the the AdminCDS "Global Settings" UI.  
 
+![image](https://github.com/user-attachments/assets/e28481b9-73b4-40d1-9d7f-582a09caedbd)
