@@ -7,7 +7,7 @@ An action provider is designed to do a single action on the system installation,
 The action provider assembly should inherit the "ActionProvider" class from the RocketPortal project.
 
 ### Usage
-**Step 1**  - Download https://github.com/Rocket-CDS/ActionProviderTemplate zip file.
+**Step 1**  - Download https://github.com/Rocket-CDS/ActionProviderTemplate zip file.  
 **Step 2**  - Put into development area and ensure dependency projects are existing, or a ref to the dependency assemblies are added.  
 **Step 3**  - Change the project name "ActionProviderTemplate" to your new project name.  Names MUST be unique for each installation.  
 **Step 4**  - Change the class name "ActionProviderTemplate" to your new ActionProvider Class name.  
